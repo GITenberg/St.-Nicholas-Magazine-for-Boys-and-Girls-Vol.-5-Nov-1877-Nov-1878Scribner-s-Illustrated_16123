@@ -1,0 +1,37 @@
+_repo: St.-Nicholas-Magazine-for-Boys-and-Girls-Vol.-5-Nov-1877-Nov-1878Scribner-s-Illustrated_16123
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Dodge, Mary Mapes
+    alias: Dodge, M. E. (Mary Elizabeth)
+    birthdate: 1830
+    deathdate: 1905
+    gutenberg_agent_id: '402'
+    url: http://www.gutenberg.org/2009/agents/402
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Mapes_Dodge
+description: ''
+gutenberg_bookshelf: St. Nicholas Magazine for Boys and Girls
+gutenberg_issued: '2005-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16123'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s literature -- Periodicals'
+- !lcc 'PZ'
+- !lcsh 'Children''s periodicals, American'
+title: 'St. Nicholas Magazine for Boys and Girls, Vol. 5, Nov 1877-Nov 1878
+
+  Scribner''s Illustrated'
+url: http://www.gutenberg.org/ebooks/16123
